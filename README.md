@@ -36,7 +36,7 @@
 <h3 align="center">Tools</h3>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Redis" width="40" />&nbsp;&nbsp;
 </p>
 
 ## 🔗 Connect with Me
