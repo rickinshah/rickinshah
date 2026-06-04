@@ -39,20 +39,6 @@
 
 </p>
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/rickinshah">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rickinshah&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="rickinshah's GitHub Stats" />
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/rickinshah">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rickinshah&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/rickinshah"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Rickin Shah's LinkedIn"/></a>&nbsp;&nbsp;
