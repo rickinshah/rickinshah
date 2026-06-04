@@ -11,24 +11,16 @@
 - Device Drivers
 - Firmware Development
 
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/rickinshah">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rickinshah&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="rickinshah's GitHub Stats" />
-  </a>
-</p>
-
-
 ## 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
 
 </p>
 
@@ -47,6 +39,14 @@
 
 </p>
 
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/rickinshah">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rickinshah&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="rickinshah's GitHub Stats" />
+  </a>
+</p>
+
+
 <p align="center">
   <a href="https://github.com/rickinshah">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rickinshah&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
@@ -59,10 +59,3 @@
   <a href="mailto:rickinshah@proton.me"><img align="center" src="https://img.shields.io/badge/Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Rickin Shah's Email"/></a>&nbsp;&nbsp;
   <a href="https://rickinshah.com"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
-  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
-</picture>
-
