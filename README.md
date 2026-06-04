@@ -41,7 +41,7 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/rickinshah"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Rickin Shah's LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="mailto:rickinshah@proton.me"><img align="center" src="https://img.shields.io/badge/Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Rickin Shah's Email"/></a>&nbsp;&nbsp;
-  <a href="https://rickinshah.com"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
+  <a href="https://www.linkedin.com/in/rickinshah"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" target="_blank" alt="Rickin Shah's LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="mailto:rickinshah@proton.me"><img align="center" src="https://img.shields.io/badge/Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank" alt="Rickin Shah's Email"/></a>&nbsp;&nbsp;
+  <a href="https://rickinshah.com"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" alt="Personal Website"/></a>
 </p>
